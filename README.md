@@ -28,3 +28,5 @@ Here I will have a collection of projects, reports, and visualizations; showcasi
 **Feel free to explore my projects and reach out with any questions!**
 
 I'll have folders with technicques and algoritms used. Inside each folder, the presentable document is named **__main__.ipynb**
+
+https://github.com/dayanaviana/data_analysis_portifolio/tree/main 
